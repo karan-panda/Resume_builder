@@ -13,7 +13,7 @@ To set up and run the Resume Builder web application on your local machine, foll
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/mrpanda1206/Resume_builder
+   git clone https://github.com/karan-panda/Resume_builder
    ```
 2. **Open the Project**
 - Launch your preferred IDE (Integrated Development Environment), such as Visual Studio.
