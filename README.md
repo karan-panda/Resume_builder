@@ -8,6 +8,11 @@ This is a web application for creating and downloading resumes. Users can fill o
 - html2canvas
 - pdfmake
 
+## Authors💻:
+- Nilesh Pal
+- Karan Panda
+- Nishant Pandey
+
 ## Getting Started
 To set up and run the Resume Builder web application on your local machine, follow these steps:
 
